@@ -23,12 +23,12 @@ Clone or download this repository,
 Open a terminal in the project folder, 
 
 **Run:**
-python WorldBuild.py
-Future Improvements
-Kingdom economy and taxation
-Battles between kingdoms
-FastAPI backend
-Web-based dashboard
+python WorldBuild.py, 
+Future Improvements, 
+Kingdom economy and taxation, 
+Battles between kingdoms, 
+FastAPI backend, 
+Web-based dashboard, 
 
 **Project Purpose**
 This project was developed to strengthen my skills in Python, SQL, database management, and backend software development.
