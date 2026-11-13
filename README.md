@@ -17,12 +17,12 @@ SQLite database integration for persistent storage
 4.Object-Oriented Programming (OOP)
 5.JSON (original save system)
 
-#**How to Run**
+**How to Run**
 Install Python 3.
 Clone or download this repository.
 Open a terminal in the project folder.
 
-#**Run:**
+**Run:**
 python WorldBuild.py
 Future Improvements
 Kingdom economy and taxation
