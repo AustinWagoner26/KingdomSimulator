@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Kingdom Simulator save files
+kingdoms.db
+savegame.json
